@@ -41,7 +41,7 @@ Cumulative GPA: 1.68 | Second Honor
 
 ---
 
-## Licenses & Certifications
+## Certifications
 
 - Koha Integrated Library System Basic Training — National Library of the Philippines
 - Contact Center Services NCII — Eclaro Academy, Inc.
