@@ -67,8 +67,7 @@ Converted disaster ministry planning graphics into presentation-ready format, wi
 
 ## Experience
 
-> IT Support
-> **Job Title** — Company Name (Month Year – Present)
+> IT Support — Eclaro Academy (August 2023 – Present)
 > - Brief description of responsibilities and impact
 
 ---
