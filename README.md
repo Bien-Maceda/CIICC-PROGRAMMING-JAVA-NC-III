@@ -42,28 +42,6 @@ A locally-hosted LMS built from the ground up and served via XAMPP. The standout
 
 Also includes custom authentication, session management, and course/content administration.
 
----
-
-### Java Developer Portfolio
-**Self-contained single-file HTML portfolio site**
-
-A portfolio site styled as an annotated Java class — complete with an IDE-inspired dark theme (JetBrains Mono font, amber/teal/magenta accent palette). Fully self-contained (base64-embedded assets, zero build step) and deployed via GitHub Pages as a single `index.html`.
-
----
-
-### Anti-Bullying Seminar Presentation Toolkit
-**Automated HTML-to-PowerPoint pipeline**
-
-Built for Eclaro Academy Inc. — converts a 24-slide HTML presentation into a polished `.pptx` deck using `pptxgenjs`. Includes a custom icon pipeline (Lucide React + `sharp`) that server-side renders vector icons to PNG, replacing emoji with crisp, professional iconography.
-
----
-
-### Diocese of Novaliches — Parish Disaster Ministry Materials
-**Presentation & design work for community/faith-based planning**
-
-Converted disaster ministry planning graphics into presentation-ready format, with attention to pixel-faithful reproduction of original artwork for use as slide backgrounds.
-
----
 
 ## Experience
 
@@ -86,4 +64,3 @@ Converted disaster ministry planning graphics into presentation-ready format, wi
 
 ---
 
-<p align="center"><i>Built with a preference for finishing what I start.</i></p>
