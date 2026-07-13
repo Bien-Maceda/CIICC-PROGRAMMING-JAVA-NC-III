@@ -1,4 +1,4 @@
-# Bienvenido V. Maceda Jr.
+# Bien Maceda
 
 📧 bienmaceda015@gmail.com | 📱 09368059056 | [LinkedIn](https://www.linkedin.com/in/bienvenido-maceda-4427a81b8) | 📍 U.P. Campus, Diliman, Quezon City
 
