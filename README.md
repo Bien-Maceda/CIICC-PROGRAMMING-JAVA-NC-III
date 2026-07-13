@@ -1,55 +1,58 @@
-# com.yourname.Portfolio
+# Bienvenido V. Maceda Jr.
 
-A single-file, self-contained portfolio site styled as an annotated Java class — IDE-inspired dark theme, line numbers, syntax-highlighted keywords, and a `public static void main` hero. Built to be dropped straight onto GitHub Pages as `index.html`.
+📧 bienmaceda015@gmail.com | 📱 09368059056 | [LinkedIn](https://www.linkedin.com/in/bienvenido-maceda-4427a81b8) | 📍 U.P. Campus, Diliman, Quezon City
 
-## Preview
+---
 
-- **Hero** — an editor window titled `Portfolio.java` showing a mini Java class (name, role, one-line mission), next to a "Profile.jpg" card with the headshot.
-- **`/** About */`** — a Javadoc-style comment block (`@author`, `@since`) wrapping a short bio paragraph.
-- **`implements Skills`** — four skill cards (Core Java, Frameworks, Data & Infra, Tooling) with progress bars per skill.
-- **`public Project[] projects`** — collapsible project cards styled as method signatures (`projectOne()`, `projectTwo()`, `projectThree()`), each with a description, tech chips, and links.
-- **`public Contact()`** — a constructor-style block with email, GitHub, and LinkedIn links (icon + label).
+## Summary
 
-## Design
+Dynamic IT Support professional with over 2 years of hands-on experience resolving complex hardware, software, and network issues for diverse users. Skilled in troubleshooting complex issues, implementing security best practices, and committed to supporting organizations by ensuring system stability, minimizing operational disruptions, and delivering professional, customer-focused service.
 
-| Token | Value | Used for |
-|---|---|---|
-| `--bg` | `#14161a` | page background |
-| `--panel` / `--panel-2` | `#1b1e24` / `#20242c` | cards, editor windows |
-| `--keyword` | `#c586c0` | magenta — keywords (`public`, `private`, `class`) |
-| `--type` | `#4ec9b0` | teal — types (`String`, `Project`) |
-| `--string` | `#e2b872` | amber — string literals, accents |
-| `--func` | `#dcdcaa` | function/method names |
-| `--text-dim` | `#6d7480` | comments, line numbers |
+---
 
-Fonts: **JetBrains Mono** (code) + **Inter** (prose), loaded from Google Fonts. Fully responsive with a collapsing mobile nav and a hamburger toggle; no build step, no dependencies — just one HTML file with inline CSS/JS.
+## Experience
 
-## Structure
+### IT Support — Eclaro Academy, Inc.
+*2023 – 2025*
 
-```
-index.html      # everything: markup, styles, script, base64 profile photo
-```
+- Served as a technical support specialist providing solutions for 200+ users.
+- Provided technical direction and solution design, resolving 95% of escalated hardware and software issues.
+- Evaluated and adopted emerging technologies, optimizing business operations and reducing downtime by 15% for 200+ users.
+- Oversaw installation, configuration, and optimization of 50+ devices, ensuring 99% uptime and alignment with security best practices.
+- Troubleshot complex technical issues, resolving 90% of network connectivity problems.
+- Led projects and collaborated with cross-functional teams to deliver 10+ initiatives on time with 100% quality compliance.
+- Implemented and monitored security best practices; reduced security incidents by 25% through proactive risk assessments and mitigation strategies.
+- Updated systems for 150+ users, ensuring zero breaches and compliance with industry standards and regulatory requirements.
 
-Sections are anchored (`#about`, `#skills`, `#projects`, `#contact`) and wired to the nav; a small inline script handles the mobile menu toggle and the project fold/unfold interaction.
+### IT Assistant/Intern — Eclaro Academy, Inc.
+*2022 – 2023*
 
-## Customizing
+- Delivered onsite technical assistance to enhance IT service efficiency and user satisfaction.
+- Supported installation of operating systems and application software, ensuring smooth deployment and user adoption.
+- Managed and maintained inventory of IT equipment, optimizing resource availability and contributing to operational efficiency.
 
-Swap out the placeholder content before publishing:
+---
 
-- `com.yourname.Portfolio` in the nav → your actual name/handle
-- `name` / `role` fields in the hero code block
-- The `/** About */` bio paragraph and `@since` year
-- Skill cards and bar widths (`style="width:XX%"`) under **Skills**
-- `projectOne()` / `projectTwo()` / `projectThree()` bodies, tech chips, and GitHub/demo links
-- `you@example.com`, `github.com/yourhandle`, `linkedin.com/in/yourhandle` in **Contact**
-- The base64 `profile-photo` image (re-export and re-embed, or point `src` to an external image URL)
+## Education
 
-## Deployment (GitHub Pages)
+**Bachelor of Science in Computer Science**
+Eclaro Academy, Inc.
+Cumulative GPA: 1.68 | Second Honor
 
-1. Push `index.html` to the root of a repo (or `/docs`).
-2. In the repo, go to **Settings → Pages**, set the source branch/folder.
-3. The site publishes at `https://<username>.github.io/<repo>/`.
+---
 
-## License
+## Licenses & Certifications
 
-Free to use and adapt for your own portfolio.
+- Koha Integrated Library System Basic Training — National Library of the Philippines
+- Contact Center Services NCII — Eclaro Academy, Inc.
+- AWS Academy Cloud Foundations Bootcamp — UP Technohub
+- Hardware and Upgrade Support — DICT-ITU DTC Initiative through the Cisco Networking Academy program
+- JavaScript Essentials 2 — DICT-ITU DTC Initiative through the Cisco Networking Academy program
+
+---
+
+## Skills
+
+**Technical:** Microsoft Office Suite, Google Workspace, Excel Data Analysis, Python, Java, C++, C#, SQL, Network Configuration, JavaScript
+
+**Professional:** Hardware, Software, Network Systems, System Performance, Security, Technical Direction, Solution Design, Emerging Technologies, Installation, Configuration, Optimization, Troubleshooting, Collaboration, Documentation, Compliance, Risk Assessments, Mentoring
