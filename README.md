@@ -31,14 +31,6 @@ Dynamic IT Support professional with over 2 years of hands-on experience resolvi
 - Supported installation of operating systems and application software, ensuring smooth deployment and user adoption.
 - Managed and maintained inventory of IT equipment, optimizing resource availability and contributing to operational efficiency.
 
-### Lineman / Warehouse Encoder — MIESCOR Telecoms
-*2021 – 2022*
-
-- Executed field support for network system installation and configuration, contributing to 80+ installations and ensuring 99% connectivity reliability.
-- Conducted risk assessments and implemented mitigation strategies, reducing equipment loss by 20%.
-- Collaborated with vendors and operations to align IT solutions with business needs, ensuring compliance through robust process documentation.
-- Maintained inventory of installer equipment, driving timely delivery of 100+ projects without regulatory issues.
-
 ---
 
 ## Education
