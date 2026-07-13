@@ -1,16 +1,16 @@
-# Bien Maceda
+### Bien Maceda
 
 📧 bienmaceda015@gmail.com | 📱 09368059056 | [LinkedIn](https://www.linkedin.com/in/bienvenido-maceda-4427a81b8) | 📍 U.P. Campus, Diliman, Quezon City
 
 ---
 
-## Summary
+### Summary
 
 Dynamic IT Support professional with over 2 years of hands-on experience resolving complex hardware, software, and network issues for diverse users. Skilled in troubleshooting complex issues, implementing security best practices, and committed to supporting organizations by ensuring system stability, minimizing operational disruptions, and delivering professional, customer-focused service.
 
 ---
 
-## Experience
+### Experience
 
 ### IT Support — Eclaro Academy, Inc.
 *2023 – 2025*
@@ -33,7 +33,7 @@ Dynamic IT Support professional with over 2 years of hands-on experience resolvi
 
 ---
 
-## Education
+### Education
 
 **Bachelor of Science in Computer Science**
 Eclaro Academy, Inc.
@@ -41,7 +41,7 @@ Cumulative GPA: 1.68 | Second Honor
 
 ---
 
-## Certifications
+### Certifications
 
 - Koha Integrated Library System Basic Training — National Library of the Philippines
 - Contact Center Services NCII — Eclaro Academy, Inc.
@@ -51,7 +51,7 @@ Cumulative GPA: 1.68 | Second Honor
 
 ---
 
-## Skills
+### Skills
 
 **Technical:** Microsoft Office Suite, Google Workspace, Excel Data Analysis, Python, Java, C++, C#, SQL, Network Configuration, JavaScript
 
