@@ -1,6 +1,6 @@
 package TASKS;
 
-public class Tasksheet112 {
+public class tasksheet_1_1_2 {
         public static void main (String[] args){
           
         int result = 1 + 2; // result is now 3
