@@ -1,14 +1,14 @@
 package chapter1;
 import java.util.Date;
 
-public class NamingConflictLesson {
+public class NamingConflict {
     Date d1;
     java.sql.Date d2;
     // OtherFolder.SunFlower s1;
     // OtherFolder.A.Makahiya m1;
 
     public static void main(String[] args) {
-        NamingConflictLesson lesson = new NamingConflictLesson();
+        NamingConflict lesson = new NamingConflict();
         lesson.d1 = new Date();
         lesson.d2 = new java.sql.Date(System.currentTimeMillis());
 

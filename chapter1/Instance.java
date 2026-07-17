@@ -1,7 +1,7 @@
 package chapter1;
 
-public class InstanceLesson {
-    InstanceLesson(){
+public class Instance {
+    Instance(){
         code = 0;
     }
     int code =1;
@@ -9,7 +9,7 @@ public class InstanceLesson {
         System.out.println(code);
     }
     public static void main(String[] args) {
-        InstanceLesson ini = new InstanceLesson();
+        Instance ini = new Instance();
         
         System.out.println(ini.code);
         {   
