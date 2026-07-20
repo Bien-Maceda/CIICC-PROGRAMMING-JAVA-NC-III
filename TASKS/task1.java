@@ -2,6 +2,7 @@ package TASKS;
 
 public class task1 {
     public static void main(String[] args) {
-        System.out.println("Kamusta Mundo!"); // Display the string.
+        double amount = 0xE;
+        System.out.println(amount); // Display the string.
     }
 }
