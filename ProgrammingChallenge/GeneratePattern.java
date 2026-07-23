@@ -8,8 +8,8 @@ public class GeneratePattern{
         System.out.print("Enter number of rows: ");
         int n = sc.nextInt();
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= i; j++) {
+        for (int x = 1; x <= n; x++) {
+            for (int y = 1; y <= x; y++) {
                 System.out.print("*");
             }
             System.out.println();
