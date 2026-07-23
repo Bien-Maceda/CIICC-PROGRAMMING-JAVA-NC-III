@@ -7,7 +7,7 @@ public class task2 {
         int eleven = 11;
         int zero = 0;
         String space = " ";
-        String w = "W";
+        String w = "w";
         int zero2 = 0;
         float twoZero = 2.0f;
         boolean trueVal = true;
