@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "task2",
+            "request": "launch",
+            "mainClass": "TASKS.task2",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "StringLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringLesson",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "StringClass",
+            "request": "launch",
+            "mainClass": "chapter3.StringClass",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

@@ -2,12 +2,12 @@ package TASKS;
 
 public class task2 {
     public static void main(String[] args) {
-        char h = 'H';
-        byte three = 3;
-        short eleven = 11;
+        String h = "H";
+        int three = 3;
+        int eleven = 11;
         int zero = 0;
-        char space = ' ';
-        char w = 'w';
+        String space = " ";
+        String w = "W";
         int zero2 = 0;
         float twoZero = 2.0f;
         boolean trueVal = true;
