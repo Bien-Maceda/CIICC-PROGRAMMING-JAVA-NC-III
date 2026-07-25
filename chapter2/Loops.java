@@ -34,7 +34,7 @@ public class Loops {
         for(String color: colors)
             System.out.println("Color: "+color);
         ROW_TABLE: for(int p = 1;p<=10;p++){
-        COL_TABLE:      for(int l = 1;l<=10;l++){
+        COL_TABLE: for(int l = 1;l<=10;l++){
                             if(l==5)
                                 // break ROW_TABLE;
                                 continue ROW_TABLE;
