@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task4",
+            "request": "launch",
+            "mainClass": "TASKS.task4",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
             "name": "GeneratePattern",
             "request": "launch",
             "mainClass": "ProgrammingChallenge.GeneratePattern",
