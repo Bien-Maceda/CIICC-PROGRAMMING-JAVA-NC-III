@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayListLesson",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayList",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
             "name": "ArrayLesson",
             "request": "launch",
             "mainClass": "chapter3.ArrayLesson",
