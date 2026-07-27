@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyDate",
+            "request": "launch",
+            "mainClass": "task121.MyDate",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
             "name": "DateAndTimeLesson",
             "request": "launch",
             "mainClass": "chapter3.DateAndTimeLesson",
