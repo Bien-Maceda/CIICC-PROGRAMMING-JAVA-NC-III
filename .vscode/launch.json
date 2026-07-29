@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task5",
+            "request": "launch",
+            "mainClass": "TASKS.task5",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "task5",
+            "request": "launch",
+            "mainClass": "task5",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
             "name": "MyDate",
             "request": "launch",
             "mainClass": "task121.MyDate",
