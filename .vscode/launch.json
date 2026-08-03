@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "task3",
+            "request": "launch",
+            "mainClass": "TASKS.task3",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "task6",
+            "request": "launch",
+            "mainClass": "TASKS.task6",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
+            "name": "task6",
+            "request": "launch",
+            "mainClass": "task6",
+            "projectName": "CIICC-PROGRAMMING-JAVA-NC-III_d813bfdc"
+        },
+        {
+            "type": "java",
             "name": "task5",
             "request": "launch",
             "mainClass": "TASKS.task5",

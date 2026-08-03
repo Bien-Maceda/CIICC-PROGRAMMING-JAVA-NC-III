@@ -24,6 +24,5 @@ public class task5 {
         } else {
             System.out.println("The largest number is: " + num3);
         }
-
     }
 }
