@@ -1,4 +1,4 @@
-package task121;
+package TASKS.task121;
 import task121.DateTask;
 public class MyDate {
     public static void main(String[] args) {
