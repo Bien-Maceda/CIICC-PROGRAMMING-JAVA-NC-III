@@ -1,12 +1,12 @@
 package TASKS;
 
-public class book {
+public class Books {
     private String title;
     private String author;
     private int yearPublished;
     private double price;
 
-    public book(String title, String author, int yearPublished, double price) {
+    public Books(String title, String author, int yearPublished, double price) {
         this.title = title;
         this.author = author;
         this.yearPublished = yearPublished;

@@ -2,7 +2,7 @@ package TASKS;
 
 import java.util.Scanner;
 
-public class task8 {
+public class Task8 {
     // Variable-arguments method:
     // For each parameter n, computes the cumulative (triangular) sum 1+2+...+n,
     // prints it, and returns the grand total of all those cumulative sums.
