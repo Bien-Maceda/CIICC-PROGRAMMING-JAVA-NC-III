@@ -42,7 +42,7 @@ public class task7 {
         double product = multiply(num1, num2);
         double quotient = divide(num1, num2);
 
-        System.out.println("\n Results: ");
+        System.out.println("\nResults: ");
         System.out.println(num1 + " + " + num2 + " = " + sum);
         System.out.println(num1 + " - " + num2 + " = " + difference);
         System.out.println(num1 + " * " + num2 + " = " + product);
