@@ -89,3 +89,22 @@ class Dog extends Hayop {
         return age;
     }
 }
+
+abstract interface CanBurrow {
+    public static final int MINIMUM_DEPTH = 12;
+    public abstract int getMaximumDepth();
+}
+
+interface CanBurrow2 {
+    int MINIMUM_DEPTH2 = 12;
+    int getMaximumDepth2();
+}
+
+class FieldMouse implements CanBurrow {
+    public int getMaximumDepth() {
+        return MINIMUM_DEPTH - 1;
+    }
+    public int getMinimumDepth() {
+        return MINIMUM_DEPTH;
+    }
+}
