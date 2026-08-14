@@ -12,7 +12,7 @@ class Point {
     public void print() {
         System.out.println(" (" + x + ", " + y + ")");
     }
-    
+
     //Your code goes here
 
     public void scale() {
